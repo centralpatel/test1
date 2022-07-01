@@ -1,0 +1,3 @@
+com\nopcommerce\demo\cucumber\Hooks.class
+com\nopcommerce\demo\cucumber\steps\LoginSteps.class
+com\nopcommerce\demo\cucumber\runner\TestRunner.class
